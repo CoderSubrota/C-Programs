@@ -1,0 +1,1 @@
+{"name":"Local: Sorth","url":"d:\\C++ Program\\third\\Sorth.cpp","tests":[{"id":1716416559536,"input":"5\n20 50 14 78 25","output":"14 20 25 50 78 \n78 50 25 20 14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\third\\Sorth.cpp","group":"local","local":true}

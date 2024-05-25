@@ -1,0 +1,1 @@
+{"name":"Local: monkey","url":"d:\\C++ Program\\third\\PracticeDay\\monkey.cpp","tests":[{"id":1716532447733,"input":"monkey\ni love flower","output":"ekmnoy\neefilloorvw"},{"id":1716533797750,"input":"money","output":"emnoy"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\third\\PracticeDay\\monkey.cpp","group":"local","local":true}

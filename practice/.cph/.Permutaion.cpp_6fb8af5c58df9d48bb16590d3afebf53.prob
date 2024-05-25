@@ -1,0 +1,1 @@
+{"name":"Local: Permutaion","url":"d:\\C++ Program\\practice\\Permutaion.cpp","tests":[{"id":1716352879909,"input":"15 12 30","output":"27\n450\n27\n360\n42\n450\n\n1557"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\practice\\Permutaion.cpp","group":"local","local":true}

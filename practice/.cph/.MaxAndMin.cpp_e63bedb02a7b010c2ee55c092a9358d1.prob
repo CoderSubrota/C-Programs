@@ -1,0 +1,1 @@
+{"name":"Local: MaxAndMin","url":"d:\\C++ Program\\practice\\MaxAndMin.cpp","tests":[{"id":1716270977123,"input":"10 20 30 40 50 60","output":"60 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\practice\\MaxAndMin.cpp","group":"local","local":true}

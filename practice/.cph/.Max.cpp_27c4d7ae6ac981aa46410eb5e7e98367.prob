@@ -1,0 +1,1 @@
+{"name":"Local: Max","url":"d:\\C++ Program\\practice\\Max.cpp","tests":[{"id":1716270786256,"input":"5\n1 8 5 7 5","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\practice\\Max.cpp","group":"local","local":true}

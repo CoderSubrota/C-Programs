@@ -1,0 +1,1 @@
+{"name":"Local: ClassOne","url":"d:\\C++ Program\\third\\PracticeDay\\ClassOne.cpp","tests":[{"id":1716496426094,"input":"Bijoy 12 Science 85 Ten","output":"Rahul 11 Science 95 Ten"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\third\\PracticeDay\\ClassOne.cpp","group":"local","local":true}

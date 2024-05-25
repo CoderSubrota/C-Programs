@@ -1,0 +1,1 @@
+{"name":"Local: sumOfNubers","url":"d:\\C++ Program\\practice\\sumOfNubers.cpp","tests":[{"id":1716329517028,"input":"5\n5 10 15 20 25","output":"136"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\practice\\sumOfNubers.cpp","group":"local","local":true}

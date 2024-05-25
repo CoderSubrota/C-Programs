@@ -1,0 +1,1 @@
+{"name":"Local: thirdClass","url":"d:\\C++ Program\\third\\thirdClass.cpp","tests":[{"id":1716409912487,"input":"Rahim chandra sarker 28 Male 245","output":"Name: Rahim chandra sarker, Age: 28, Gender: Male,  Role 245"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\third\\thirdClass.cpp","group":"local","local":true}

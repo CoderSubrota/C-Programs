@@ -1,0 +1,1 @@
+{"name":"Local: UseArrayToGetMax","url":"d:\\C++ Program\\practice\\UseArrayToGetMax.cpp","tests":[{"id":1716271223028,"input":"3\n10 20 30","output":"30"},{"id":1716271254190,"input":"6\n10 20 30 40 50 60","output":"60"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\practice\\UseArrayToGetMax.cpp","group":"local","local":true}
