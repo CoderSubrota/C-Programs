@@ -1,0 +1,1 @@
+{"name":"Local: reverse","url":"d:\\C++ Program\\stringstreams\\reverse.cpp","tests":[{"id":1716952970516,"input":"hello how are you","output":"you are how hello"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\stringstreams\\reverse.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: namespcae","url":"d:\\C++ Program\\stringstreams\\namespcae.cpp","tests":[{"id":1716956878823,"input":"hello\nhi friend how are you?","output":"hello World\nBijoy 25 25555\nhello  World!!\nyou? are how friend hi"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\stringstreams\\namespcae.cpp","group":"local","local":true}

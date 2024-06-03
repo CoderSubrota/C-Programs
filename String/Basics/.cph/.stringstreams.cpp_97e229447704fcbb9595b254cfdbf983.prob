@@ -1,0 +1,1 @@
+{"name":"Local: stringstreams","url":"d:\\C++ Program\\String\\Basics\\stringstreams.cpp","tests":[{"id":1716761450423,"input":"hello world how are you","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\String\\Basics\\stringstreams.cpp","group":"local","local":true}

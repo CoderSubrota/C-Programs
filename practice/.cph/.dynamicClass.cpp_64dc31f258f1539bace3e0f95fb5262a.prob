@@ -1,0 +1,1 @@
+{"name":"Local: dynamicClass","url":"d:\\C++ Program\\practice\\dynamicClass.cpp","tests":[{"id":1716920681570,"input":"rahul science joypurhat 87\nbijoy arts rajshahi 95","output":"Bijoy  Science Khetlal 95"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\practice\\dynamicClass.cpp","group":"local","local":true}

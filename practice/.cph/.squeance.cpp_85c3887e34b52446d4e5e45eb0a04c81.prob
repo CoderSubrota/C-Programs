@@ -1,0 +1,1 @@
+{"name":"Local: squeance","url":"d:\\C++ Program\\practice\\squeance.cpp","tests":[{"id":1716658339072,"input":"5\nf f d d a","output":"a:1 d:2 f:2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\practice\\squeance.cpp","group":"local","local":true}

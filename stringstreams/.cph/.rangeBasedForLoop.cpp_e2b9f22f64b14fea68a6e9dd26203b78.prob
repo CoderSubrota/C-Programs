@@ -1,0 +1,1 @@
+{"name":"Local: rangeBasedForLoop","url":"d:\\C++ Program\\stringstreams\\rangeBasedForLoop.cpp","tests":[{"id":1716955986468,"input":"hello","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\stringstreams\\rangeBasedForLoop.cpp","group":"local","local":true}

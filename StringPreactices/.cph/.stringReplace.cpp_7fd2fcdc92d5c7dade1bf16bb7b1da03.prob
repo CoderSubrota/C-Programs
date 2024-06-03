@@ -1,0 +1,1 @@
+{"name":"Local: stringReplace","url":"d:\\C++ Program\\StringPreactices\\stringReplace.cpp","tests":[{"id":1717137581178,"input":"2\nrahimisagoodboy good\niloveyou you","output":"rahimisa#boy\nilove#"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\StringPreactices\\stringReplace.cpp","group":"local","local":true}

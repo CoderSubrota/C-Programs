@@ -1,0 +1,1 @@
+{"name":"Local: removeSpace","url":"d:\\C++ Program\\practice\\removeSpace.cpp","tests":[{"id":1716786826962,"input":"ddfdfdfdf\ni love you","output":"dddddffff\neiloouvy"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\practice\\removeSpace.cpp","group":"local","local":true}
